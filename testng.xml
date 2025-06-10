@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/lenka/IdeaProjects/Orangehrm_testAutomation_framework_E2E">
+        <classes><class name="com.poojitha.test.Advanced.Hrm_Advanced">
+            <methods><include name="test_hrm"/>
+            </methods>
+        </class>
+        </classes>
+    </test>
+    </suite>
